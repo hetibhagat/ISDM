@@ -1,5 +1,29 @@
 Questions
 1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).
+Define problems within current system:
+
+1)	The lack of an information system to manage the CMC in terms of handling call routing and dynamic call flow control for both inbound and outbound calls, assisting RMs in serving their end-customers and matching RMs and end- customer profiles.
+2)	The system operation is complicated by the varying number and nature of holiday packages offered by the travel company. 
+3)	The call flow rate is sub purr due to the lack of performance based matching of RMs to Customers.
+4)	The System does not match RM profiles based on performance in selling thus customers are not served efficiently and effectively. 
+-> System does not use Skill matcher between customer and RMs profile. 
+5)	The service being provided to end customers is not of quality which resulted in loss of potential buyers for outbound calls. 
+6)	The inbound call costs are high due to long call-handling time. 
+7)	Customers may experience delays and long wait times to be directed to a RM during busy periods. 
+
+Objectives of the New System: 
+
+1)	To improve the operation of the in-house call management centre (CMC)
+2)	Provide improved call routing and dynamic call flow control for both inbound and outbound calls. 
+3)	To improve call flow rate, match customers based on RM performance and product knowledge. 
+4)	To increase the chance to achieve a sale or provide better service, RM will use matching techniques such as; segmenting customers into social, cultural and behavioural segments. 
+5)	The system will adjust according to RMs subsequent performance in selling packages and in serving customers effectively and efficiently.
+6)	Outbound calls need to be optimised by providing the RM with an effective guideline and script, crafted to help create the best user experience for the customer. 
+->	Create a target list for RM based on skill & profile.
+7)	Minimise inbound call costs by reducing per-call handling time
+->	Rank customers according to their propensity to purchase using a scale of 1-10 Serve those with highest likelihood of buying first
+8)	To reduce customer waiting time during busy periods, an interactive voice response unit is used until the first available RM. 
+9)	Calls that are received by RMs are based on skill levels and best match.
 
 
 
