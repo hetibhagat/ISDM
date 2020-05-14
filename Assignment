@@ -40,12 +40,23 @@ Objectives of the New System:
 
 3. Describe your approach from a Design Thinking principles perspective.
 
+Our current system cannot match appropriate clients and RMs resulting in an inefficient use of time and sub-par experience
+for the customer. We have approached this problem by identifying each relevant aspect in the following ways;
+
 Empathy:
 Inbound customer calls are enduring long wait times and being mismatched with inappropriate customer representatives.
 Customers receiving cold calls are not being matched with a suitable RM
+
 Define:
-Customers that call into the travel company or receive out-bound sales calls.
-Need a system that grades RMs according to proper metrics and matches them to appropriate customers
-The company will also benefit from this as it will not only increase sales but also increase productivity in their work as, RMs will not be needing to spend large amounts of time with one customer.
+Customers are those that call into the travel company or receive out-bound sales calls. RMs are managers that interact with the customers 
+either in a sales or support role. We require a system that that grades RMs according to proper metrics and matches them to 
+appropriate customers.
+
+The company will also benefit from this as it will not only increase sales but also increase productivity 
+in their work via efficient use of time from RMs.
+
 Idea:
-A system that matches RMs to suitable customers to minimise inbound call waiting times, maximise sales for out-bound calls and gives an overall improved customer experience
+A system that matches RMs to suitable customers to minimise inbound call waiting times, 
+maximise sales for out-bound calls and gives an overall improved customer experience
+
+We will do this by firs
