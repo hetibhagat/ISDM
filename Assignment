@@ -59,4 +59,6 @@ Idea:
 A system that matches RMs to suitable customers to minimise inbound call waiting times, 
 maximise sales for out-bound calls and gives an overall improved customer experience
 
-We will do this by firs
+We will do this by first grading RMs via use of a questionaire and then subsequently adjusting call-flows to best leverage
+the skills and experience of each RM to provide the most efficient experience. Each subsequent call is then scored by call duration and
+outcome to inform future matching for call-flows
