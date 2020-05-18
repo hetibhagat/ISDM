@@ -2,7 +2,7 @@ Questions
 1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).
 Define problems within current system:
 
-1)	The lack of an information system to manage the CMC in terms of handling call routing and dynamic call flow control for both inbound and outbound calls, assisting RMs in serving their end-customers and matching RMs and end- customer profiles.
+1)	The lack of knowlegde to handle an information system to manage the CMC in terms of handling call routing and dynamic call flow control for both inbound and outbound calls, assisting RMs in serving their end-customers and matching RMs and end- customer profiles.
 2)	The system operation is complicated by the varying number and nature of holiday packages offered by the travel company. 
 3)	The call flow rate is sub purr due to the lack of performance based matching of RMs to Customers.
 4)	The System does not match RM profiles based on performance in selling thus customers are not served efficiently and effectively. 
@@ -31,9 +31,9 @@ Objectives of the New System:
 
 2. Identify stakeholders.
 
-- Travel company (entity)
+- Travel company (entity) // this isnt one  or senior managers 
 - Travel company clients
-- Employees (RMs, HR, IT)
+- Employees (RMs, HR, IT) // this is one - break this down into managers, employees role names  
 - Customers
 
 
@@ -41,7 +41,8 @@ Objectives of the New System:
 3. Describe your approach from a Design Thinking principles perspective.
 
 Our current system cannot match appropriate clients and RMs resulting in an inefficient use of time and sub-par experience
-for the customer. We have approached this problem by identifying each relevant aspect in the following ways;
+for the customer. We have approached this problem by identifying each relevant aspect in the following ways; 
+// problem analysis stage is over, talk about new system not old be postive not negative 
 
 Empathy:
 Inbound customer calls are enduring long wait times and being mismatched with inappropriate customer representatives.
