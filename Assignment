@@ -94,4 +94,28 @@ Sprint Backlog
 
 
 Increments
+5. List assumptions you have made in system analysis
+Assumptions are inextricable nextricable parts of problem-solvingdue to limited knowledge, capacity and resources to:
++  Completely comprehend systems dynamics andcomplexity
++  Exert full control over interactions and individual behaviours
++  Ensure entirely that our solutions will sustain anyexternal or internal disturbance
+For our information system, assumptions are those things you assume to be true for your system to be successful therefore the assumptions that were documented from the project are:
+1) Budget: Estimated cost of the project may exceed the initial budget
+  + A travel company want to improve their in-house Call Management Centre therefore o improve call flow rate, match customers based on RM performance and product knowledge.
+  However not every customer is a potential customer or end-customer so it may increased call-flow rate but the overall cost day-to-day activity may increase.
+2) Resources: Relationship Managers and Human Resource Team 
++ The system will require lots of manpower in order to deal with each customer or the waiting time for customers will increase.
++ Database to store customers profiles, and segmenting customers based on their postcodes and surnames.
+3) Delivery: 
++ System servers arrive configured as expected 
++ Correct number of services arrive on target delivery date with no delays, waiting time.
+4) Schedule:
+5) Methodology: The approach to complete the system
++ System will follow Waterfall Methodology throughout the process, execution.
++ System will follow the project guidelines and requirements.
+6) Scope: Improve CMC
++ The system scope will change once stakeholders agree throughout.
+7) Technology: IT team 
++ 
+
 
