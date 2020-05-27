@@ -128,4 +128,77 @@ Many problems will occur for the business if its information system fails. The o
 Conclusively, the company will loss it competitive advantage. 
 
 
+#Reflection
+
+Reflections & ‘How might we statements.’
+
+1.	Customers are having a poor experience due to long wait-times and ineffective targeting of sales calls. 
+
+-	How might we improve wait times?
+-	How might we improve customer experience?
+
+-	We can train more staff
+
+-	We can outsource some calls
+
+-	Move some tools online to remove the need to call, reducing load
+
+Using the above information, we can assume that the system doesn’t allow for either the outsourcing of calls nor the development of online tools. These bounds are important as, while not explicitly stated, help create a more focused system. The training of staff, whilst feasible, can be assumed to be beyond the scope of this project as it is a HR matter.
+
+2.	Relationship managers are the staff members interfacing with the customers to either manage incoming calls or making outgoing sales calls. As per the POV statement they wish to do the best job possible whilst experiencing job satisfaction.
+
+-	How might we manage calls better?
+-	How might be recognised for good work?
+
+-	We can provide additional training
+
+-	We can monitor calls to gauge skills
+
+-	We have feedback surveys
+
+Call management can be improved by more focused training; however, this does not tackle the variable of the customer themselves. People are varied and without proper curation and routing this will remain an issue. For our system, we must assume that the provided ‘Profiler Tool’ is effective for the curation and that it isn’t so invasive that it detracts from the customer experience. 
+Surveys are an effective way to receive feedback regarding RM skill and handling of calls but we must also make the leap that the answers will be answered accurately by the customer and that they won’t simply be skipped.
+
+
+
+3.	The I.T team are those employees that are responsible for system maintenance and for expansion when necessary.
+
+-	How might we ensure a stable system?
+-	How might we ensure ease of maintenance and expansion?
+
+-	We can ensure stable hardware
+
+-	We can train staff appropriately
+
+-	We can develop the system using sound engineering practices
+
+The training of the IT staff and the hardware involved are outside the prevue of this system, but we can assume that the staff are adequately trained and that the selected hardware is stable. Expansion may be an issue in the future thus we must take scalability into account when designing the system. We should also assume that the project will be conducted with sound engineering practices. 
+
+4.	Human Resources Staff will be responsible for the RM questionnaires, profiles and the performance during calls. Their main issues relate to the management of staff.
+
+-	How might we maintain accurate RM profiles?
+-	How might we have an effect questionnaire?
+
+-	Automated feedback and maintenance post-call
+
+-	Manual maintenance of profiles by HR staff
+
+-	Questionnaires for RMs revised on a schedule
+
+The automation of RM profiles, whilst effective, isn’t explicitly tackled in the case study. We can assume that this aspect of the system is not automatic and must be handled by HR staff. This is the more effective measure at this time as an, assumed, automated system may not be accurate. Whilst questionnaires themselves are explicitly addressed, the revision and improvement of this aspect is not. We can assume that HR staff will monitor questionnaires on a regular basis and update as needed.
+
+
+
+
+
+5.  The clients of the travel company, and consequently the CMC, are entities that have engaged the travel company in a support or sales capacity. They wish to make as many sales as possible as well as provide the best after-sales support possible.
+
+-	How might we improve sales?
+-	How might we provide adequate sales support to their customers?
+
+-	More sales by knowing the customer via existing information
+
+-	Improve support by improving customer experience 
+
+The sales aspect of this can be addressed using the mentioned “Profiler tool” which segments customers using existing database information. This will help us target only relevant products during sales calls. This tool also ties in with after sales-support as it can also help the system match the customer profile to the best suited RM. We must assume that this tool is both accurate and fit for purpose if the rest of our system is to work.
 
