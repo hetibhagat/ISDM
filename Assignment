@@ -1,6 +1,6 @@
-**1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).**
+#1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).
 
-Define problems within current system:
+##Define problems within current system:
 1)	The lack of knowlegde to handle an information system to manage the CMC in terms of handling call routing and dynamic call flow control for both inbound and outbound calls, assisting RMs in serving their end-customers and matching RMs and end- customer profiles.
 2)	The system operation is complicated by the varying number and nature of holiday packages offered by the travel company. 
 3)	The call flow rate is sub purr due to the lack of performance based matching of RMs to Customers.
@@ -10,7 +10,7 @@ Define problems within current system:
 6)	The inbound call costs are high due to long call-handling time. 
 7)	Customers may experience delays and long wait times to be directed to a RM during busy periods. 
 
-Objectives of the New System: 
+##Objectives of the New System: 
 
 1)	To improve the operation of the in-house call management centre (CMC)
 2)	Provide improved call routing and dynamic call flow control for both inbound and outbound calls. 
@@ -28,7 +28,7 @@ Objectives of the New System:
 
 
 
-2. Identify stakeholders.
+#2. Identify stakeholders.
 1) Travel company clients 
 2) Customers 
 3) Relationship Managers
@@ -36,20 +36,17 @@ Objectives of the New System:
 5) IT team 
 
 
-
-
-
-3. Describe your approach from a Design Thinking principles perspective.
+#3. Describe your approach from a Design Thinking principles perspective.
 
 Our current system cannot match appropriate clients and RMs resulting in an inefficient use of time and sub-par experience
 for the customer. We have approached this problem by identifying each relevant aspect in the following ways; 
 // problem analysis stage is over, talk about new system not old be postive not negative 
 
-Empathy:
+##Empathy:
 Inbound customer calls are enduring long wait times and being mismatched with inappropriate customer representatives.
 Customers receiving cold calls are not being matched with a suitable RM
 
-Define:
+##Define:
 Customers are those that call into the travel company or receive out-bound sales calls. RMs are managers that interact with the customers 
 either in a sales or support role. We require a system that that grades RMs according to proper metrics and matches them to 
 appropriate customers.
@@ -57,7 +54,7 @@ appropriate customers.
 The company will also benefit from this as it will not only increase sales but also increase productivity 
 in their work via efficient use of time from RMs.
 
-Idea:
+##Idea:
 A system that matches RMs to suitable customers to minimise inbound call waiting times, 
 maximise sales for out-bound calls and gives an overall improved customer experience
 
@@ -66,7 +63,7 @@ the skills and experience of each RM to provide the most efficient experience. E
 outcome to inform future matching for call-flows
 
 
-4.Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
+#4.Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
 For our travel company we have decided to develop an information system using Scrum mainly as our agile methodology. Scrum is an agile process in which it assumes the development process is complicated and unpredictable. This is advantageous in our scenario as in-house call centres can be uncertain due to customers cancelling their tickets or having a long wait time. Compared to other traditional methods the requirements are not fully understood from the beginning and can become an issue later on when new tools and objectives are introduced. 
 Hence scrum provides the visibility needed for Relationship managers to effectively communicate with potential customers. Having the assistance of an information system which matches RMs skills and customer profiles creates an environment where teams are able to act autonomously without the need of a manager and are able to organise their own work. 
 
@@ -79,7 +76,7 @@ During the developing phase, activities such as sprints are performed in cycles 
 Once sprints are completed it will end with two events, the first is a sprint review. The intention of this review is to inspect and test the following product that has been developed. During this activity important participants such as stakeholders, product owners, development teams and customers will give a critical review on the overall effort of the product. Scrum teams are then able to gain frequent feedback, presenting itself as an opportunity to inspect and modify the product. The final activity of scrum is the sprint retrospective, this opportunity is to inspect the processes rather than the product. All scrum members will come together and make a final discussion on what is working and not working whilst having scrum. Teams should be able to identify a number of improvements for the next sprint, since the whole cycle will repeat itself and create a new goal for teams to focus on.
 
 Increments
-5. List assumptions you have made in system analysis
+#5. List assumptions you have made in system analysis
 Assumptions are inextricable nextricable parts of problem-solvingdue to limited knowledge, capacity and resources to:
 +  Completely comprehend systems dynamics andcomplexity
 +  Exert full control over interactions and individual behaviours
@@ -103,7 +100,7 @@ For our information system, assumptions are those things you assume to be true f
 7) Technology: IT team 
 
 
-ALT QUESTION 5:
+##ALT QUESTION 5:
 
 1.	A supporting tool is used to create customer profiles exists, Profiler Tool. We assume this to be outsourced 
 2.	The questionnaire that the RMs complete is designed by the HR team. This is because HR is in charge of employee performance within team. 
@@ -111,7 +108,7 @@ ALT QUESTION 5:
 4.	This also means when making outbound calls RMs will have customer details such as age, sex, culture, language proficiency, experience and product knowledge. 
 
 
-7.  Marking Criteria says (500 words) 
+#7.  Marking Criteria says (500 words) 
 Discuss the competitive advantages might be gained in developing the new information 
 system. 
 
