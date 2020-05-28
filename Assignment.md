@@ -40,9 +40,9 @@ a.	System does not use Skill matcher between customer and RMs profile.
 >4.	To increase the chance to achieve a sale or provide better service, RM will use matching techniques such as; segmenting customers into social, cultural and behavioural segments. 
 >5.	The system will adjust according to RMs subsequent performance in selling packages and in serving customers effectively and efficiently.
 >6.	Outbound calls need to be optimised by providing the RM with an effective guideline and script, crafted to help create the best user experience for the customer. 
-a.	Create a target list for RM based on skill & profile.
+>>a.	Create a target list for RM based on skill & profile.
 >7.	Minimise inbound call costs by reducing per-call handling time
-a.	Rank customers according to their propensity to purchase using a scale of 1-10 Serve those with highest likelihood of buying first
+>>a.	Rank customers according to their propensity to purchase using a scale of 1-10 Serve those with highest likelihood of buying first
 >8.	To reduce customer waiting time during busy periods, an interactive voice response unit is used until the first available RM. 
 >9.	Calls that are received by RMs are based on skill levels and best match.
 #### Identify stakeholders.
@@ -200,3 +200,10 @@ E.g. As a member of the scrum team I want to write out objectives of the new inf
 This is the last meeting that took place. In this our team basically just put all our week together and identified any missing aspects. If any aspects were missing, we worked out how to overcome it. As a team we evaluated our group performance and areas of improvement for next time. 
 
 ## **<span style="color:#ff3300">References**
+1.	Avison. D, Fitzgerald. G. (2006). Information Systems Development Methodologies, Techniques & Tools. 4th Ed. Chap.1-2
+2.	Baltzan. P. et al. (2015). Business Driven Information Systems. 3rd ed.  McGraw Hill. Chap.6.
+3.	Tsitoara, M. (2014). Beginning Git and Github. 2nd Ed. Apress. Chap 1-3
+4.	Hirschheim. R, Klein. H, Lyytinen. K (2003). Information Systems and Data Modelling. 2nd Edition. Cambridge Press. Chap 1- 4 
+5.	Highsmith. J (2009), Agile Project Management, 1st Edition, Pearson Education, Chap 1-5. 
+6.	Schwaber. K (2004). Agile Project Management. 3rd Edition, Microsoft Publishing, Chap 1-2
+
