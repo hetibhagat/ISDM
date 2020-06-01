@@ -1,7 +1,7 @@
 # <span style="color:#4dd2ff">Information System Development Methodologies 
 #### Assignment Project :50%
 #### Team Members: Rageeb MowLa, Heti Bhagat, Trieu Tien Duc
-## The video portion of our report can be viewed here: [Group 6 Video Presentation](https://youtu.be/1VX5qRoIcL8)
+## The video part of our report can be viewed here: [Link](https://youtu.be/1VX5qRoIcL8)
 
 ## Content
 >1. Problem definition: Objectives, List of Stakeholders:
