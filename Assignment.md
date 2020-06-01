@@ -161,10 +161,10 @@ Surveys are an effective way to receive feedback regarding RM skill and handling
 ##### Activity Diagram: 
 <img src="diagrams//AD.png">
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <img src="diagrams//AD2.png">
 
 ##### Class Diagram: 
